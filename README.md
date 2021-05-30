@@ -1,4 +1,4 @@
-### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">![](https://visitor-badge.glitch.me/badge?page_id=shivrajkumar.shivrajkumar)
 
 <br/>
 
@@ -10,6 +10,8 @@ I am also an **open-source** enthusiast and maintainer. I learned a lot from the
 - 📌 Living in **Bengaluru, India**
 
 - 👨‍💻 Currently Working @[GeekyAnts](https://geekyants.com/)
+
+- 👨‍💻 Core contributer: [NativeBase](https://nativebase.io/), [React Native Seed](https://reactnativeseed.com/), [NativeBase Customizer](https://nativebase.io/customizer/) and more...
 
 - 📱 Loves to build Mobile Applications.
 
