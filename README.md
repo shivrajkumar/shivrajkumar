@@ -5,7 +5,7 @@
 I'm [Shivraj](https://www.linkedin.com/in/shivraj-kumar-5b54a186), an **Enthusiastic Frontend Developer** 👨🏻‍💻 aspiring to become an **Expert** in the field of application development.
 I am also an **open-source** enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 <br/>
-<img align="right" alt="GIF" src="https://github.com/shivrajkumar/shivrajkumar/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/shivrajkumar/shivrajkumar/blob/main/code.gif?raw=true" width="500" height="320" />
 
 - 📌 Living in **Bengaluru, India**
 
